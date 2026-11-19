@@ -1,9 +1,8 @@
 # Podyum
 
-Repositório central da organização de desenvolvimento da **Podyum**.
-
 ![Podyum](/logo_horizontal.svg)
 
+Repositório central da organização de desenvolvimento da **Podyum**.
 Este espaço reúne os projetos, aplicações, serviços, ferramentas e documentações utilizados no desenvolvimento e na manutenção da plataforma.
 
 ## 📁 Organização
